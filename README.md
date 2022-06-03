@@ -14,7 +14,7 @@ Dipertemuan kali ini kita akan mempelajari **PHP OOP**
 ### 2. BUAT FOLDER BARU DENGAN NAMA lab10_php_oop
 ![img](img/membuat%20folder%20baru.png)
 
-Setelah itu jalankan dengan mengakses URL: http: //localhost/Lab10Web/lab10_php_oop/
+Setelah itu jalankan dengan mengakses URL: http://localhost/Lab10Web/lab10_php_oop/
 ### 3. BUAT FILE BARU DENGAN NAMA mobil.php
 ![img](img/mobil.png)
 **Code php**
